@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8"/>
+		<title>Biefinger</title>
+	</head>
+	
+	<body>
+		1) Hello <a href="http://vk.com">world</a>!<br/>
+		2) Hello <strong>world</strong>!<br/>
+		3) Hello <em>world</em>!<br/>
+		4) Hello world!<br/>
+		5) Hellow world!
+		6)<img src="https://image.flaticon.com/icons/png/512/37/37502.png" width="100" height="100"/><br/>
+		7) <div>hello suka</div> 123123
+		8)
+			<table border="2">
+				<tr><td>#1<td/><td>hello</td><td>world</td><td>!</td></tr>
+				<tr><td>#2<td/><td>hello</td><td>world</td><td>!</td></tr>
+				<tr><td>#3<td/><td>hello</td><td>world</td><td>!</td></tr>
+				<tr><td>#4<td/><td>hello</td><td>world</td><td>!</td></tr>
+			</table>
+			
+		9) <input value="кошки пукать"/><br/>
+		10) <textarea></textarea>
+	</body>
+
+</html>
+
+
+
+----------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8"/>
+		<title>Biefinger</title>
+	</head>
+	<link href="Styles.css" rel="stylesheet" type"text/css"/>
+	<body>
+		<div class="l">sex</div>
+		<div class="l w">Zapros prinyat</div>
+		<div class="l c">Zapros otklonen</div>
+		<div class="l g">Zapros Pohui</div>
+	</body>
+
+</html>
+
+
+__________________________________________________________
+
+a{
+color:red;
+font-size:17px;
+}
+div{
+	color: #00FF00;
+}
+
+#d7
+{
+	color: blue;
+}
+
+#d2{
+	font-size:21px;
+	color: yellow;
+}
+
+
+
+.l{
+	color:#000000;
+	backgroud-color:#747474;
+	border:1px solid #323232;
+	font-Size:20px;
+	margin-left:500px;
+	padding:15px;
+}
+.g{
+	color:#000000;
+	backgroud-color:#747474;
+	border:1px solid #323232;
+	font-Size:20px;
+	margin-left:500px;
+	padding:15px;
+}
+
+.c{
+	color:#000000;
+	backgroud-color:#8C8585;
+	border:1px solid #F300FF;
+	font-Size:20px;
+	margin-left:500px;
+	padding:15px;
+}
+
+.l:hover{
+	border:30px solid #FFFFFF;
+}
+
+
+.w{
+	color:#000000;
+	backgroud-color:#FFFFFF;
+	border:1px solid #4C4C4C;
+	font-Size:20px;
+	margin-left:500px;
+	padding:15px;
+}
+
+
+--------------------------------------------------------------------------------------------------------
+body{
+	background-image: url(img/1.jpg);
+}
+
+
+#b1{
+	transform: scale(0.4);
+	transition: 1s transform;
+	background-color: #FFFFFF;
+	color:#333;
+	padding:15px;
+	margin:15px;
+	border: 7px solid #DF00FF;
+	border-radius: 30px;
+	opacity:0.1;
+	width: 90%;
+	height: 300px;
+	display:block;
+	text-align:center;
+	font-size:200px;
+	font-weight:800;
+}
+#b1:hover{
+	opacity:1;
+	box-shadow:3px 3px 7px #000000;
+	transform: rotate(45deg) scale(0.4);
+}
+
+__________________________________________________
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8"/>
+		<title>Biefinger</title>
+	</head>
+	<link href="Styles.css" rel="stylesheet" type"text/css"/>
+	<body>
+		<div id="b1">CSS3</div>
+
+	</body>
+
+</html>
+
+
+
+--------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8" content="width=device-width, initial-scale=1.0" />
+		<title>VISITKA</title>
+	</head>
+	<link href="Styles.css" rel="stylesheet" type"text/css"/>
+	<link rel="stylesheet" type="text/css" href="style.scss"
+	<body>
+		<div id="particles-js"></div>
+		<div id="page-wrapper">
+		
+		
+		<div id=" girl"></div>
+		<div id="sex"> 89827508790</div>
+		<a id="bla" href="http://vk.com/snegposhel" >Мой Вк</a>
+		<div id="kun">leonov.vv2@dns-shop.ru</div>
+		<div id="sun">Web-программист</div>
+		<a href="file:///D:/Koding/test.l.html"><img src="11.jpg" width="120" height="120" id="kef" ></a>
+		<a id="bgh" href="file:///D:/Koding/test.l.html"><img src="21.jpg" width="100" height="100"></a>
+		<ul id="navbar">
+		<li><a id="nfl" href="file:///D:/Koding/test.l.html">Главная</a></li>
+		<li><a id="nfp" href="file:///D:/Koding/%D0%BE%20%D0%BD%D0%B0%D1%81/us.html">О нас</a></li>
+		<li><a id="nft" href="file:///D:/Koding/%D0%BF%D1%80%D0%B0%D0%B9%D1%81/price.html">Прайс</a></li>
+		<li><a id="nfg" href="file:///D:/Koding/rules/rules.html">Правила</a></li>
+		</ul>
+		<div id="mex"><img src="65.jpg" width="40" height="40"><div style="clear:both"></div></div>
+		<button id="tuk">Показать Контакты</button>
+		</div>
+		 <script  type="text/javascript" src="jquery-3.4.1.min.js"></script>
+		<script type="text/javascript" src="script.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" defer></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" defer></script>
+		<script src="main.js" defer></script>
+	</body>
+
+</html>
+
+
+
